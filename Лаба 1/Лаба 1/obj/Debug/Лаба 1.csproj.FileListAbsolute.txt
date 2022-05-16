@@ -1,0 +1,14 @@
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.AssemblyReference.cache
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe.config
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\bin\Debug\Лаба 1.pdb
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\obj\Debug\Лаба 1.exe
+C:\Users\79045\source\C#\Лаба 1\Лаба 1\obj\Debug\Лаба 1.pdb
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe.config
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\bin\Debug\Лаба 1.pdb
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.AssemblyReference.cache
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\obj\Debug\Лаба 1.exe
+C:\Users\79045\source\C# Лабы\Лаба 1\Лаба 1\obj\Debug\Лаба 1.pdb
